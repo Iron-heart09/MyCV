@@ -14,4 +14,4 @@ To install the project locally:
 ## Usage
 To use this project, open in a suitable web browser.
 * ![Project in action]
-* 
+* ![MyCV](https://user-images.githubusercontent.com/86072654/123885955-be668b80-d94e-11eb-8ffe-f85bfcfe2f31.gif)
